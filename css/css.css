@@ -49,6 +49,10 @@ header{
 	display: inline-block;
 	z-index: 1;
 }
+.activo{
+	cursor: pointer;
+	opacity: 0.8;
+}
 .cuadro img{
 	width: 100%;
 	position: relative;
